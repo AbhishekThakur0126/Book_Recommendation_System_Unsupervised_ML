@@ -38,21 +38,21 @@ Ratings : Contains the book rating information. Ratings (Book-Rating) are either
 
 # Project Description
 
-EDA - Performed exploratory data analysis on numerical and categorical data.
+* EDA - Performed exploratory data analysis on numerical and categorical data.
 
-Data Cleaning - Missing value imputation,Outlier Treaatment.
+* Data Cleaning - Missing value imputation,Outlier Treaatment.
 
-Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
+* Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
 
-Model development - Tried Popularity based model and Collaborative filtering (Both Memory based and Model based).
+* Model development - Tried Popularity based model and Collaborative filtering (Both Memory based and Model based).
 
 # Needs of this project
 
-data exploration
+* data exploration
 
-data processing/cleaning
+* data processing/cleaning
 
-recommendation system developer
+* recommendation system developer
 
 # Conclusion
 

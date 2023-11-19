@@ -37,6 +37,7 @@ Books : Books are identified by their respective ISBN. Invalid ISBNs have alread
 Ratings : Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
 
 **Project Description**
+
 EDA - Performed exploratory data analysis on numerical and categorical data.
 
 Data Cleaning - Missing value imputation,Outlier Treaatment
@@ -45,6 +46,7 @@ Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
 Model development - Tried Popularity based model and Collaborative filtering (Both Memory based and Model based).
 
 **Needs of this project**
+
 data exploration
 
 data processing/cleaning

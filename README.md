@@ -40,7 +40,7 @@ Ratings : Contains the book rating information. Ratings (Book-Rating) are either
 
 EDA - Performed exploratory data analysis on numerical and categorical data.
 
-Data Cleaning - Missing value imputation,Outlier Treaatment
+Data Cleaning - Missing value imputation,Outlier Treaatment.
 
 Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
 

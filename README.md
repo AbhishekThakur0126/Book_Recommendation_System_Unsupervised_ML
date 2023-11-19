@@ -4,27 +4,27 @@ The main objective is to create a book recommendation system for users. Recommen
 
 # Methods Used
 
-Descriptive Statistics
+* Descriptive Statistics
 
-Data Visualization
+* Data Visualization
 
-Machine Learning
+* Machine Learning
 
 # Technologies
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-Numpy
+* Numpy
 
-Matplotlib
+* Matplotlib
 
-Seaborn
+* Seaborn
 
-Scikit-learn
+* Scikit-learn
 
-Surprise
+* Surprise
 
 # Data
 
